@@ -10,3 +10,6 @@
 - 🎥 I’m building next: **Mono repo using nx for DecentraDegens Poker Web App**
 
 - 🤝 I’m looking for Individuals who can code in React (Typescript), NestJs, and Solidity
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a></p>
