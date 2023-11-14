@@ -27,4 +27,4 @@
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai-oneal&show_icons=true&locale=en&layout=compact" alt="kai-oneal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kai-ONeal&show_icons=true&locale=en&layout=compact" alt="Kai-ONeal" /></p>
