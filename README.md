@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Kai O'Neal</h1>
 
-<h3 align="center">Software Egineer @ Stephenson Disaster Management Institute at Louisiana State University</h3>
+<h3 align="center">Software Engineer @ Stephenson Disaster Management Institute at Louisiana State University</h3>
 
 <!--
 **Kai-ONeal/Kai-ONeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
