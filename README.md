@@ -5,7 +5,7 @@
 <h4 align="center" justify="center">Link to my GitLab account -> (https://gitlab.com/kai_oneal)
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"  alt="GitLab Logo" style="float: right; width: 40px; height: 40px;"/></h4>
 
-<div>
+
 - 🔭 I’m currently working on: **Louisiana National Gaurd Youth Challenge Program Web App**
 
 - 🌱 I’m currently learning: **Web3 Technologies such as ThirdWeb, Moralis, and Solidity**
@@ -14,7 +14,6 @@
 
 - 🤝 I’m looking for Individuals who can code in React (Typescript), NestJs, and Solidity
 
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
