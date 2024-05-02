@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer @ Stephenson Disaster Management Institute at Louisiana State University</h3>
 
-<h4 align="center">[Link to my GitLab account](https://gitlab.com/kai_oneal)
+<h4 align="center" justify="center">Link to my GitLab account -> (https://gitlab.com/kai_oneal)
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"  alt="GitLab Logo" style="float: right; width: 40px; height: 40px;"/></h4>
 
 
