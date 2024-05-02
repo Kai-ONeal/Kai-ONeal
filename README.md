@@ -2,6 +2,11 @@
 
 <h3 align="center">Software Engineer @ Stephenson Disaster Management Institute at Louisiana State University</h3>
 
+<p align="left">
+  Link to my GitLab
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"   
+     height="40"/></a></p>
+
 
 - 🔭 I’m currently working on: **Louisiana National Gaurd Youth Challenge Program Web App**
 
