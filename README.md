@@ -4,7 +4,6 @@
 
 [Link to my GitLab account](https://gitlab.com/kai_oneal)
 <img src="path/to/your/image.jpg" alt="GitLab Logo" style="float: right; width: 100px; height: 100px;">
- <a href="https://gitlab.com/kai_oneal" target="_blank" rel="noreferrer" background-image="url('https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" background-size="cover" width="40" height="40">  Link to my GitLab </a>
     
 
 
