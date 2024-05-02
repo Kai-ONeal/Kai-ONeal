@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer @ Stephenson Disaster Management Institute at Louisiana State University</h3>
 
 [Link to my GitLab account](https://gitlab.com/kai_oneal)
-<img src="path/to/your/image.jpg" alt="GitLab Logo" style="float: right; width: 100px; height: 100px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="GitLab Logo" style="float: right; width: 100px; height: 100px;">
     
 
 
