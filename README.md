@@ -2,10 +2,8 @@
 
 <h3 align="center">Software Engineer @ Stephenson Disaster Management Institute at Louisiana State University</h3>
 
-
-  <a href=" https://gitlab.com/kai_oneal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="git-lab" width="40"   
-     height="40"/><p align="center">
-  Link to my GitLab</p></a>
+  <p align="center">
+  Link to my GitLab <a href=" https://gitlab.com/kai_oneal" target="_blank" rel="noreferrer" style="background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'); background-size: cover;"> </a></p>
 
     
 
