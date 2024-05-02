@@ -5,6 +5,7 @@
 <h4 align="center" justify="center">Link to my GitLab account -> (https://gitlab.com/kai_oneal)
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"  alt="GitLab Logo" style="float: right; width: 40px; height: 40px;"/></h4>
 
+<br/>
 
 - 🔭 I’m currently working on: **Louisiana National Gaurd Youth Challenge Program Web App**
 
