@@ -35,10 +35,3 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kai-ONeal&show_icons=true&locale=en&layout=compact" alt="Kai-ONeal" /></p>
 <p style="padding-top: 20px;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kai-ONeal&" alt="Kai-ONeal" /></p>
-<style>
-  @media (max-width: 600px) {
-    p:nth-of-type(2) {
-      padding-top: 20px; /* Adjust the value as needed */
-    }
-  }
-</style>
